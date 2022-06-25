@@ -1,0 +1,3 @@
+Dicas em relação as branches
+
+Digitando o compando ctrl + shift + p, e digitarmos git branch, ele vai nós mostrar todas as opções que podemos fazer com as branchs dentro do VS CODE.
